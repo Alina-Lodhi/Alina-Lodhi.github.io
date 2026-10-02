@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alina-lodhi.github.io/sitemap.xml
